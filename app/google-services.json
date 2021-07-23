@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746973427152",
+    "project_id": "tifloappbase",
+    "storage_bucket": "tifloappbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746973427152:android:0f50bf1d7f8868dd0ef5d5",
+        "android_client_info": {
+          "package_name": "com.arboleda.pruebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746973427152-de05gvhf25fc8646fg8mdis27po0ejen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYOC8pKW_UkddbrS25BMJoHbgLLvPgShg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746973427152-de05gvhf25fc8646fg8mdis27po0ejen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
